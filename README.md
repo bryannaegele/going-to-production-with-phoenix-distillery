@@ -7,6 +7,10 @@
 
 [Phoenix Deployment Guide](https://hexdocs.pm/phoenix/deployment.html)
 
+[Release Methods Discussion](https://elixirforum.com/t/always-use-releases/4573)
+
+[Storing Elixir Release Configuration in Environment Variables with Distillery] (http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
+
 [The NeverEnding Application](https://www.youtube.com/watch?v=xzY1C_O3gDk)
 
 [PID File Generator](https://hex.pm/packages/pid_file)
